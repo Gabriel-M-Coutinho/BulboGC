@@ -5,7 +5,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulbogc&layout=compact&hide_border=true&title_color=0000004&text_color=ffffff&bg_color=0d1117" />
 </div>
 
-<h1 align="center">  ### Main skills: </h1>
+<h1 align="center"> Main skills: </h1>
   
 
 
