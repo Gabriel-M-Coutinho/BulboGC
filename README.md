@@ -7,7 +7,7 @@
 
 <div align="center" color="#2E86C1">
   <h3>Main skills:<h3/><br/>
-  <img href="https://www.flaticon.com/free-icon/html_1051277?term=html&page=1&position=1&origin=tag&related_id=1051277"/>
+  <a href="https://www.flaticon.com/free-icon/html_1051277?term=html&page=1&position=1&origin=tag&related_id=1051277"/>
 
 </div>
 
