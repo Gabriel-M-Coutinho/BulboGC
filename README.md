@@ -20,13 +20,7 @@
 
 
 
-<div align="center"> 
-
-<a href="https://www.youtube.com/channel/UC-sU2_lVKRQqyJ9t1ZxaANA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href = "bulbogc@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gabriel-magina-coutinho-17510a175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
- 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=bulbogc)  
  
  
   ### Main skills:
