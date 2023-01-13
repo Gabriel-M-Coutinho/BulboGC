@@ -13,10 +13,6 @@
 
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bulbogc&theme=onestar" />
-</p>
-
 
 
 
