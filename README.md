@@ -7,7 +7,10 @@
 
 <div align="center" color="#2E86C1">
   <h3>Main skills:<h3/><br/>
-  <a href="https://www.flaticon.com/free-icon/html_1051277?term=html&page=1&position=1&origin=tag&related_id=1051277"/>
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 </div>
 
