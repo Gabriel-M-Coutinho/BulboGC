@@ -5,7 +5,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulbogc&layout=compact&hide_border=true&title_color=0000004&text_color=ffffff&bg_color=0d1117" />
 </div>
 
-<h3 align="center"> Main skills: </h3>
+<h3 align="center" value="Main skills:"/>  
 
     ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
     ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
