@@ -1,16 +1,61 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E86C1&height=120&section=header"/>
+# Gabriel Magina Coutinho 👨‍💻
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bulbogc&show_icons=true&count_private=true&hide_border=true&title_color=0000004&icon_color=0000004&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulbogc&layout=compact&hide_border=true&title_color=0000004&text_color=ffffff&bg_color=0d1117" />
-</div>
+## Desenvolvedor Backend | Soluções Tecnológicas Personalizadas
 
-<h3 align="center">  Main skills </h3>
+### 🚀 Sobre Mim
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-  ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&logoColor=purple&labelColor=0D1117)&nbsp; 
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+Desenvolvedor de software apaixonado por criar soluções tecnológicas inovadoras. Especializado em desenvolvimento backend com experiência em Java, C#, Node.js e metodologias ágeis.
 
+### 🛠️ Tecnologias e Ferramentas
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 💼 Experiência Profissional
+
+- **Desenvolvedor Freelancer** (Atual)
+
+  - Criação de sistemas personalizados
+  - Desenvolvimento de APIs RESTful
+  - Microsserviços em Java, C# e Node.js
+
+- **Pasquali Solution** (2020-2022)
+
+  - Desenvolvimento de APIs e microsserviços
+  - Documentação técnica
+  - Análise e melhorias de sistemas
+
+- **Priori Solution** (2019-2020)
+  - Modelagem de dados
+  - Automação de processos com Python
+  - Análise de dados
+
+### 🎓 Formação
+
+Tecnólogo em Análise e Desenvolvimento de Sistemas - FATEC
+
+### 🌱 Interesses
+
+- Desenvolvimento de Backend
+- Arquitetura de Software
+- Metodologias Ágeis
+- Soluções Escaláveis
+
+### 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=BulboGC&show_icons=true&theme=dracula)
+
+### 📫 Como Me Encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:BulboGC@gmail.com)
+
+---
+
+⭐️ De [BulboGC](https://github.com/BulboGC)
